@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajidimon
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Search engine marketing
+- 🌱 I’m currently learning Search engine optimization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
