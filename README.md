@@ -12,12 +12,14 @@ My Software skills are given below:
 2. CSS3
 3. JavaScript & jQuery
 4. Bootstrap
-5. Web Design
-6. PhP
-7. WordPress customization
-8. WordPress Development
-9. Search Engine Optimization (SEO)
-10. Video Editing
+5. React js
+6. Express js
+7. MongoDB
+8. PhP
+9. WordPress customization
+10. WordPress Development
+11. Search Engine Optimization (SEO)
+12. Video Editing
 
 Also, I have extensive knowledge about SEO, Marketing, Video Editing & design sense.
 
