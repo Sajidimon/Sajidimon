@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Full Stack Web Developer & WordPress Expert from Bangladesh 🇧🇩
+# 👋 Hi, I'm Imon Chowdhury — Professional Laravel Web Developer & WordPress Expert from Bangladesh
 
 Welcome to my GitHub! I’m a **Certified Full Stack Web Developer** and **WordPress Expert** based in **Dhaka, Bangladesh**, offering high-quality and responsive web development services to clients both locally and internationally.
 
@@ -60,17 +60,17 @@ Since **2018**, I have successfully delivered a wide range of professional websi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidimon&show_icons=true&theme=radical&hide_title=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidimon&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Get in Touch
 
-- 🌍 Portfolio: [envoydigital](https://www.envoydigitalbd.com)
-- 📧 Email: [your-email@example.com](mailto:imonchowdhury6@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🧑‍💻 GitHub: [github.com/your-username](https://github.com/your-username)
+- 🌍 Portfolio: [Envoy Digital](https://www.envoydigitalbd.com)
+- 📧 Email: [Imon chowdhury](mailto:imonchowdhury6@gmail.com)
+- 💼 LinkedIn: [Imon Chowdhury](https://linkedin.com/in/sajidimon)
+- 🧑‍💻 GitHub: [Imon Chowdhury](https://github.com/sajidimon)
 
 ---
 
