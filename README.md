@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imon Chowdhury — Full Stack Web Developer & WordPress Expert from Bangladesh 🇧🇩
+# 👋 Hi, I'm [Your Name] — Full Stack Web Developer & WordPress Expert from Bangladesh 🇧🇩
 
 Welcome to my GitHub! I’m a **Certified Full Stack Web Developer** and **WordPress Expert** based in **Dhaka, Bangladesh**, offering high-quality and responsive web development services to clients both locally and internationally.
 
@@ -18,46 +18,60 @@ Since **2018**, I have successfully delivered a wide range of professional websi
 
 ## 🧠 My Skillset
 
-- **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, React.js  
-- **Back-End:** PHP, Node.js, Express.js, MongoDB  
-- **CMS Expertise:** WordPress Development & Customization  
-- **Other Skills:** SEO, Video Editing, UI/UX, Digital Marketing
+### 🌐 Languages & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 💻 Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠 CMS & Tools
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎯 Other Skills
+- ✅ SEO Optimization
+- ✅ Video Editing
+- ✅ UI/UX Design Sense
+- ✅ Digital Marketing
 
 ---
 
 ## 🎬 My YouTube Channel: [Skill Gori](https://www.youtube.com/skillgori)
 
-I’ve created **200+ videos** on topics including:
+🎥 I’ve published **200+ videos** on:
 - Web Development Tutorials
 - WordPress Customization
-- E-commerce Site Building
-- Tips & Tricks for Beginners to Pros
+- E-commerce Website Building
+- Tips, Tricks & Career Advice
 
-👉 **Subscribe now** to get real-world insights into how I work and build professional websites:  
-📺 [https://www.youtube.com/skillgori](https://www.youtube.com/skillgori)
+👉 **Subscribe Now**: [https://www.youtube.com/skillgori](https://www.youtube.com/skillgori)
 
 ---
 
-## 🏆 Why Work With Me?
+## 📊 GitHub Stats
 
-- ✅ Certified & Experienced Developer
-- ✅ Professional and Clean Coding Practices
-- ✅ Fast Delivery and Reliable Support
-- ✅ Strong Design Sense and SEO Knowledge
-- ✅ Worked with Multiple Local & International Clients
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Get in Touch
 
-I'm open to collaboration, freelance projects, and long-term partnerships.
-
-- 🌍 Portfolio: https://www.imonchowdhury.com
-- 📧 Email: imonchowdhury6@gmail.com
-- 📱 LinkedIn: https://www.linkedin.com/in/sajidimon
-- 🧑‍💻 GitHub: github.com/sajidimon
+- 🌍 Portfolio: [envoydigital](https://www.envoydigitalbd.com)
+- 📧 Email: [your-email@example.com](mailto:imonchowdhury6@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 🧑‍💻 GitHub: [github.com/your-username](https://github.com/your-username)
 
 ---
 
-Thank you for visiting my profile. Let’s build something great together!
-
+Thanks for visiting my profile — let’s build something amazing together! 🚀
