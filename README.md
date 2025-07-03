@@ -55,7 +55,7 @@ I'm open to collaboration, freelance projects, and long-term partnerships.
 - 🌍 Portfolio: https://www.imonchowdhury.com
 - 📧 Email: imonchowdhury6@gmail.com
 - 📱 LinkedIn: https://www.linkedin.com/in/sajidimon
-- 🧑‍💻 GitHub: [github.com/sajidimon]
+- 🧑‍💻 GitHub: github.com/sajidimon
 
 ---
 
