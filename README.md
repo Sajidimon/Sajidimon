@@ -1,26 +1,63 @@
-I am full stack web developer who is providing high-quality & Responsive web development service in Bangladesh. I am Certified bangladeshi web developer and wordpress expert in Dhaka.
+# 👋 Hi, I'm Imon Chowdhury — Full Stack Web Developer & WordPress Expert from Bangladesh 🇧🇩
 
-I am the best Bangladeshi web developer as well as WordPress developer in Bangladesh who always follow some techniques and strategies for making any website professional and eye-catching. You can Watch my working process that I follow to make any websites professionally. You will get some ideas about my working style. 
+Welcome to my GitHub! I’m a **Certified Full Stack Web Developer** and **WordPress Expert** based in **Dhaka, Bangladesh**, offering high-quality and responsive web development services to clients both locally and internationally.
 
-Subscribe my channel: https://www.youtube.com/skillgori
+Since **2018**, I have successfully delivered a wide range of professional websites and applications for businesses and individuals around the world.
 
-I have made more than 200+ videos based on web development, ecommerce website development & WordPress website. So you can call me the best web developer in Bangladesh or the best WordPress developer in Bangladesh.
+---
 
-My Software skills are given below:
+## 💼 What I Do
 
-1. HTML5
-2. CSS3
-3. JavaScript & jQuery
-4. Bootstrap
-5. React js
-6. Express js
-7. MongoDB
-8. PhP
-9. WordPress customization
-10. WordPress Development
-11. Search Engine Optimization (SEO)
-12. Video Editing
+- 🔧 Build **responsive, SEO-optimized websites**
+- 🌐 Develop **custom WordPress themes and plugins**
+- 🛒 Design and launch **eCommerce websites**
+- ⚛️ Full Stack Development with **MERN & LAMP**
+- 📈 Optimize websites for **speed, UX, and search engine visibility**
 
-Also, I have extensive knowledge about SEO, Marketing, Video Editing & design sense.
+---
 
-I am working as best website developer in this field since 2018. In those years, I had worked with so many companies both local and international & completed huge projects successfully.
+## 🧠 My Skillset
+
+- **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, React.js  
+- **Back-End:** PHP, Node.js, Express.js, MongoDB  
+- **CMS Expertise:** WordPress Development & Customization  
+- **Other Skills:** SEO, Video Editing, UI/UX, Digital Marketing
+
+---
+
+## 🎬 My YouTube Channel: [Skill Gori](https://www.youtube.com/skillgori)
+
+I’ve created **200+ videos** on topics including:
+- Web Development Tutorials
+- WordPress Customization
+- E-commerce Site Building
+- Tips & Tricks for Beginners to Pros
+
+👉 **Subscribe now** to get real-world insights into how I work and build professional websites:  
+📺 [https://www.youtube.com/skillgori](https://www.youtube.com/skillgori)
+
+---
+
+## 🏆 Why Work With Me?
+
+- ✅ Certified & Experienced Developer
+- ✅ Professional and Clean Coding Practices
+- ✅ Fast Delivery and Reliable Support
+- ✅ Strong Design Sense and SEO Knowledge
+- ✅ Worked with Multiple Local & International Clients
+
+---
+
+## 📫 Get in Touch
+
+I'm open to collaboration, freelance projects, and long-term partnerships.
+
+- 🌍 Portfolio: https://www.imonchowdhury.com
+- 📧 Email: imonchowdhury6@gmail.com
+- 📱 LinkedIn: https://www.linkedin.com/in/sajidimon
+- 🧑‍💻 GitHub: [github.com/sajidimon]
+
+---
+
+Thank you for visiting my profile. Let’s build something great together!
+
